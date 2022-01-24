@@ -18,7 +18,7 @@ body,div,p,ul,li,h1,h2,h3,h4,h5,h6,form,input,label,dl,dt,dd,ol {
 
 @font-face {
 	font-family:'FontAwesome';
-	src:url('//cdn.jsdelivr.net/gh/frcdn/mycdn/font.eot') format('embedded-opentype'),url('//cdn.jsdelivr.net/gh/frcdn/mycdn/font.woff');
+	src:url('//cdn.jsdelivr.net/gh/frcdn/mycdn/style/font.eot') format('embedded-opentype'),url('//cdn.jsdelivr.net/gh/frcdn/mycdn/style/font.woff');
 	font-weight:normal;font-style:normal
 }
 
@@ -390,7 +390,7 @@ em,i {
 .list li .tu {
 	width: 100%;
 	height: 0;
-	background: url("//cdn.jsdelivr.net/gh/frcdn/mycdn/loading.gif") center center no-repeat;
+	background: url("//cdn.jsdelivr.net/gh/frcdn/mycdn/images/loading.gif") center center no-repeat;
 	background-size: cover;
 	padding-bottom: 120%;
 	display: block;
@@ -405,7 +405,7 @@ em,i {
 	width: 100%;
 	height: 100%;
 	padding: 0px;
-	background: rgba(0,0,0,0.2) url("//cdn.jsdelivr.net/gh/frcdn/mycdn/play.png") center no-repeat;
+	background: rgba(0,0,0,0.2) url("//cdn.jsdelivr.net/gh/frcdn/mycdn/images/play.png") center no-repeat;
 	background-color: rgba(0,0,0,.2);
 	-webkit-transition: all ease-out .35s;
 	transition: all ease-out .35s;
@@ -454,7 +454,7 @@ em,i {
 .list_txt li {
 	height: 32px;
 	line-height: 32px;
-	background: url("//cdn.jsdelivr.net/gh/frcdn/mycdn/dot.gif") 0 18px repeat-x;
+	background: url("//cdn.jsdelivr.net/gh/frcdn/mycdn/images/dot.gif") 0 18px repeat-x;
 	word-break: break-all
 }
 
@@ -488,7 +488,7 @@ em,i {
 	float: right;
 	color: #f60;
 	padding-left: 20px;
-	background: url("//cdn.jsdelivr.net/gh/frcdn/mycdn/camera.gif") #f9f9f9 0 11px no-repeat
+	background: url("//cdn.jsdelivr.net/gh/frcdn/mycdn/images/camera.gif") #f9f9f9 0 11px no-repeat
 }
 
 .position {
@@ -501,7 +501,7 @@ em,i {
 	float: left;
 	padding-left: 1rem;
 	margin-right: .7rem;
-	background: url("//cdn.jsdelivr.net/gh/frcdn/mycdn/wz.gif") 0 center no-repeat
+	background: url("//cdn.jsdelivr.net/gh/frcdn/mycdn/images/wz.gif") 0 center no-repeat
 }
 
 .position li.home {
@@ -961,7 +961,7 @@ em,i {
 	display: block;
 	overflow: hidden;
 	text-indent: -999px;
-	background: url("//cdn.jsdelivr.net/gh/frcdn/mycdn/gotop.png") no-repeat;
+	background: url("//cdn.jsdelivr.net/gh/frcdn/mycdn/images/gotop.png") no-repeat;
 	filter: alpha(opacity=80);
 	opacity: .8
 }
