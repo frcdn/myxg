@@ -51,7 +51,7 @@ var stui = {
 	'common': {
 		
 		'lazyload': function() {
-            $.getScript("//cdn.jsdelivr.net/gh/frcdn/mycdn/jquery.lazyload.min.js",
+            $.getScript("//cdn.jsdelivr.net/gh/frcdn/mycdn/js/jquery.lazyload.min.js",
             function() {
                 $(".lazyload").lazyload({
                     effect: "fadeIn",
