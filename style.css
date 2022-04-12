@@ -145,7 +145,7 @@ em,i {
 	list-style-type: none
 }
 
-.user li i,.jilu.con li .delck {
+.user li i,.jilu.con li .del {
 	display: inline-block;
 	font: normal normal normal 14px/1 FontAwesome;
 	font-size: inherit;
@@ -158,7 +158,7 @@ em,i {
 	content: "\f002"
 }
 
-.user li .off:before,.jilu.con li .delck:before {
+.user li .off:before,.jilu.con li .del:before {
 	content: "\f00d"
 }
 
@@ -899,7 +899,7 @@ em,i {
 	display: block
 }
 
-.jilu.con li .delck {
+.jilu.con li .del {
 	float: right;
 	width: 10px;
 	line-height: 2.2rem;
